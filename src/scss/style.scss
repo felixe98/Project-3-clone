@@ -1,0 +1,5 @@
+@use 'utilities/globals';    //Custom properties
+@use 'base';                 // Typography, reset, etc
+@use 'layout';               // Header, footer, etc
+@use 'pages';                // Home, contact, etc
+@use 'vendor';              // Third party styles
